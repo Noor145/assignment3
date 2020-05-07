@@ -1,0 +1,38 @@
+
+.navbr{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color:whitesmoke;
+    width: 100%;
+    height: auto;
+}
+.navbar-items{
+    display:flex;
+    flex-direction: row;
+    list-style: none;
+    margin-top: 15px;
+    font-size: smaller;
+}
+.navbar-item:hover{
+    color: whitesmoke;
+    background-color: royalblue;
+    border-radius: 20px;
+}
+.navbar-item{
+    padding: 10px 10px 10px 10px;
+    font-weight: 600;
+}
+.for-logo{
+    display: inline-block;
+    width: 30%;
+    margin-left: 15%;
+}
+.headline{
+    color: white;
+    background-color: royalblue;
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    word-spacing: 40px;
+}

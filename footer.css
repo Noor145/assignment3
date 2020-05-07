@@ -1,0 +1,15 @@
+
+.ftr{
+    /* position: relative;
+    top: 0px; */
+    color: white;
+    background-color: #316DC3;
+    height: 100%;
+    width: 100%;
+}
+.footer-text{
+    font-size: x-small;
+    position: relative;
+    left: 150px;
+    padding-top: 15px;
+}

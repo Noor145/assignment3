@@ -1,0 +1,46 @@
+.two-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+}
+.missions{
+    display: inline-block;
+    text-align: left;
+    width: auto;
+    padding: 0px 15px 0px 15px;
+}
+.events{
+    display: inline-block;
+    text-align: left;
+    width:25%;
+    padding: 0px 15px 0px 15px;
+    
+}
+.events-text{
+    text-align: left;
+} 
+h3{
+    font-size: larger;
+    color:  #316DC3;
+    font-weight: bold;
+    font-family: serif;
+    border-bottom: 1px solid whitesmoke;
+}
+table{
+    position: relative;
+    left: -25px;
+    border-collapse: separate;
+    border-spacing: 25px 15px;
+}
+td{
+    border:1px solid lightgray;
+    width: 50%;
+    height: 60px;
+    padding: 5px 100px 5px 20px ;
+    font-size: small;
+    font-weight:bolder;
+    font-family: serif;
+    color: #316DC3;
+    background-color: whitesmoke;
+}

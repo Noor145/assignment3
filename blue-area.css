@@ -1,0 +1,20 @@
+.blue-area{
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.monthly{
+    color: springgreen;
+}
+.first,.second,.third,.fourth{
+    display: inline-block;
+    padding: 50px 50px 50px 50px;
+}
+.category-text{
+    font-family: serif;
+    font-size: medium;
+}
+.blue-area-pic{
+    padding: 10px 10px 10px 10px;
+}

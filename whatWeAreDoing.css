@@ -1,0 +1,20 @@
+.what-we-are-doing{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+.item{
+    background-color: white;
+    margin: 20px 20px 20px 20px;
+    display: inline-block;
+    padding: 30px 50px 30px 50px;
+    width:300px;
+    height: 150px;
+    box-shadow: 5px 5px 12px lightgray;
+}
+h5{
+    color:  #316DC3;
+    font-size: medium;
+    font-family: serif;
+    font-weight: 600;
+}
